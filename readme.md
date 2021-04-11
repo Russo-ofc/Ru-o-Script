@@ -1,1 +1,1 @@
-curl "https://raw.githubusercontent.com/Russo-ofc/Ru-o-Script/main/install.sh" > mdk.sh
+curl "https://raw.githubusercontent.com/Russo-ofc/Ru-o-Script/main/install.sh" > install.sh
