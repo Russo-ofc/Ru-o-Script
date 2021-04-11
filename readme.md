@@ -1,7 +1,7 @@
-curl "https://raw.githubusercontent.com/Russo-ofc/Ru-o-Script/master/install.sh" > install.sh
+curl "https://raw.githubusercontent.com/Russo-ofc/Ru-o-Script/master/instalador.sh" > instalador.sh
 
-sed -i -e 's/\r$//' install.sh
+sed -i -e 's/\r$//' instalador.sh
 
-chmod +x install.sh
+chmod +x instalador.sh
 
 ....
