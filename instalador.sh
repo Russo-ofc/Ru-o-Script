@@ -54,6 +54,8 @@ echo "* Baixando Dependencias PhP..."
 apt install -y php libapache2-mod-php php-mysql php-gd php-cli php-common php-mbstring php-ldap php-odbc php-pear php-xml php-xmlrpc php-bcmath php-pdo
 echo "* Baixando Todas As Dependencias..."
 apt install -y software-properties-common apache2  mysql-server default-jdk git zip unzip python-certbot-apache
+echo "* Baixando Repositorio Cerbot..."
+add-apt-repository ppa:certbot/certbot
         
 echo "* OK"
 }
