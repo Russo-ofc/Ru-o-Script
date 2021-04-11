@@ -1,4 +1,15 @@
         #!/bin/bash
+set -e
+
+##################################################################################
+#                                                                                #
+#                  Modelo De Projeto 'Instalador-Principal'                      #
+#                                                                                #
+#   Copyright (C) 2021, Russo & Adrian Config, <https://discord.gg/CSeweRNj3q>   #
+#                                                                                #
+##################################################################################
+
+
 
         output(){
             echo -e '\e[36m'$1'\e[0m';
