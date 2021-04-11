@@ -49,7 +49,7 @@ echo "FINALIZADO"
 
 dependencias() {
 echo "* Baixando Todas As Dependencias..."
-apt-get install -y software-properties-common apache2 mysql-server php libapache2-mod-php php-mysql php-gd php-cli php-common php-mbstring php-ldap php-odbc php-pear php-xml php-xmlrpc php-bcmath php-pdo default-jdk git zip unzip python-certbot-apache vimapt-get install -y software-properties-common apache2 mysql-server php libapache2-mod-php php-mysql php-gd php-cli php-common php-mbstring php-ldap php-odbc php-pear php-xml php-xmlrpc php-bcmath php-pdo default-jdk git zip unzip python-certbot-apache vim
+apt install -y software-properties-common apache2 mysql-server php libapache2-mod-php php-mysql php-gd php-cli php-common php-mbstring php-ldap php-odbc php-pear php-xml php-xmlrpc php-bcmath php-pdo default-jdk git zip unzip python-certbot-apache vimapt-get install -y software-properties-common apache2 mysql-server php libapache2-mod-php php-mysql php-gd php-cli php-common php-mbstring php-ldap php-odbc php-pear php-xml php-xmlrpc php-bcmath php-pdo default-jdk git zip unzip python-certbot-apache vim
         
 echo "* OK"
 }
