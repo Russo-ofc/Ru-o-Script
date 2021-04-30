@@ -39,7 +39,7 @@ install_options
 esac
 }
 sftp() {
-echo "* TESTE DE MISCLICK"
+echo "* TESTE DE MISCLICK /// Versão Pterodatcyl Encontrada 0.7 | Modulo: Server Reinstaler, SubDomain Maneger File"
 }
 
 
